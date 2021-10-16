@@ -4,7 +4,7 @@ A tech enthusiast with passion to solve problems and to make things. Proven skil
 
 ### I'm currently
 
-- 💼 I am currently working in Khaalijeb
+- 💼 I am currently working in EazyPG
 
 - 🌱  I am currently looking to collaborate on Backend Development
 
